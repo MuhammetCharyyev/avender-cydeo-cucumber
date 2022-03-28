@@ -34,3 +34,5 @@ import org.junit.runner.RunWith;
 
 public class CucesRunner {
 }
+// we can check tags @wip for example to remove excess
+//ctrl+shift+R
